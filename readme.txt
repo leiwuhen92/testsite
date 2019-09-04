@@ -1,0 +1,1 @@
+https://www.ibm.com/developerworks/cn/web/1101_jinjh_djangoi18n/index.html    Django 国际化实例及原理分析
