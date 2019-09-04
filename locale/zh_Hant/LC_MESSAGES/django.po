@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-04 14:38+0800\n"
+"POT-Creation-Date: 2019-09-04 15:10+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,20 +18,40 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 #: .\templates\test2\index.html:23
 msgid "Languages"
-msgstr "语言"
+msgstr "語言"
 
 #: .\templates\test2\index.html:29
 msgid "The first sentence is from the  template index.html"
-msgstr "第一句话来自 intex.html 模版"
+msgstr "來源於模板index.html"
 
-#: .\test2\views.py:11
+#: .\test1\views.py:14
+msgid "Monday"
+msgstr "星期壹"
+
+#: .\test1\views.py:14
+msgid "Tuesday"
+msgstr "星期二"
+
+#: .\test1\views.py:14
+msgid "Wednesday"
+msgstr "星期三"
+
+#: .\test1\views.py:14
+msgid "Thursday"
+msgstr "星期四"
+
+#: .\test1\views.py:14
+msgid "Friday"
+msgstr "星期五"
+
+#: .\test1\views.py:14
+msgid "Saturday"
+msgstr "星期六"
+
+#: .\test1\views.py:14
+msgid "Sunday"
+msgstr "星期日"
+
+#: .\test2\views.py:9
 msgid "The second sentence is from the Python code."
-msgstr "第二句话来自 Python 代码"
-
-#: .\testsite\settings.py:132
-msgid "English"
-msgstr "英文"
-
-#: .\testsite\settings.py:133
-msgid "Chinese"
-msgstr "中文"
+msgstr "來源於python"

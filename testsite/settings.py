@@ -126,11 +126,11 @@ TEMPLATE_DIRS = (
     os.path.join(BASE_DIR, 'templates'),
 )
 
-ugettext = lambda s: s
 
 LANGUAGES = (
-    ('en-us', ugettext('English')),
-    ('zh-Hans', ugettext('Chinese')),
+    ('en-us', ('英文')),
+    ('zh-Hant', ('中文繁体')),
+    ('zh-Hans', ('中文简体')),
 )
 LOCALE_PATHS = (
     os.path.join(BASE_DIR, 'locale'),
